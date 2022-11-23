@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 <div style="border:3px solid #cc0000">
 Div here</div>
-![header](https://capsule-render.vercel.app/api?type=rounded&color=CC0000&height=300&section=header&text=Hi%20there&fontSize=90)
+
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
