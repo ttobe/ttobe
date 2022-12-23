@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:bbd2c5,100:536976&height=300&section=header&text=Hi👋&fontSize=90&fontColor=292e49" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:bbd2c5,100:292e49&height=150&section=header&text=Hi&fontSize=40&fontColor=f2f6f4&fontAlignY=30&fontAlign=90" />
 
 #### Tools
 <div>
