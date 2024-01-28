@@ -4,7 +4,7 @@
 </div>
 
 # About
-- 이름: 황진혁
+- 안녕하세요 백엔드 초보 개발자 황진혁입니다!
 - mail: ahdrmfgur12@gamil.com  
 - blog: [ttobe](https://velog.io/@ttobe/posts)
 - resume: [개발에서 살아남기](https://ttobe.notion.site/bee3b6fea5f14a3d8a42559bbaa78af6?pvs=4)
