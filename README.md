@@ -18,25 +18,28 @@
 
 # Project
 
-<div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/36af89d3-1881-4b00-b679-9b4b558aec60" alt="kopilot_logo" style="width: 33%; display: inline-block;">
-    
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column">
-    <div>kopilot</div>
-    글쓰기 효율을 높이는 서비스
-    <a href="https://kopilot.kro.kr/">배포 링크</a>
-    <a href="https://github.com/kopilot2024/kopilot">깃허브 링크</a>
-</div>
+<br>
+
+<div>
+  <img src="https://github.com/user-attachments/assets/36af89d3-1881-4b00-b679-9b4b558aec60" alt="kopilot_logo" width="25%" align="left" style="margin-right: 20px;">
+  <div>
+    <h3>kopilot</h3>
+    <p>글쓰기 효율을 높이는 서비스</p>
+    <p><a href="https://kopilot.kro.kr/">배포 링크</a></p>
+    <p><a href="https://github.com/kopilot2024/kopilot">깃허브 링크</a></p>
+  </div>
 </div>
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 1rem;">
-    <img src="https://github.com/ttobe/ttobe/assets/101859033/3b0a827d-c0ab-4b4e-89ff-8a9d3d4ec296" alt="fancamp" style="width: 28%; display: inline-block;">
-    
-<div style="display: flex; justify-content: center; align-items: center; flex-direction: column">
-    <div>fancamp</div>
-    인플루언서 커뮤니티 플랫폼
-    <a href="https://github.com/boostcampwm2023/web02-fancamp">깃허브 링크</a>
-</div>
+<br>
+<br>
+
+<div>
+  <img src="https://github.com/ttobe/ttobe/assets/101859033/3b0a827d-c0ab-4b4e-89ff-8a9d3d4ec296" alt="fancamp_logo" width="25%" align="left" style="margin-right: 20px;">
+  <div>
+    <h3>fancamp</h3>
+    <p>인플루언서 커뮤니티 플랫폼</p>
+    <p><a href="https://github.com/boostcampwm2023/web02-fancamp">깃허브 링크</a></p>
+  </div>
 </div>
 
 <br>
