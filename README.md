@@ -5,10 +5,8 @@
 
 # About
 
-- 안녕하세요 백엔드 초보 개발자 황진혁입니다!
 - mail: ahdrmfgur12@gamil.com
 - blog: [ttobe](https://velog.io/@ttobe/posts)
-- resume: [개발에서 살아남기](https://ttobe.notion.site/bee3b6fea5f14a3d8a42559bbaa78af6?pvs=4)
 - [네이버 부스트캠프 웹모바일](https://boostcamp.connect.or.kr/program_wm.html) 8기 챌린지 수료 (23.07.10 ~ 23.08.08)
 - [네이버 부스트캠프 웹모바일](https://boostcamp.connect.or.kr/program_wm.html) 8기 멤버십 수료 (23.08.28 ~ 23.12.15)
 - [네이버 인공지능 프로젝트](https://github.com/kopilot2024/kopilot) (24.07.01 ~ 24.08.23)
@@ -38,7 +36,7 @@
   <div>
     <h3>fancamp</h3>
     <p>인플루언서 커뮤니티 플랫폼</p>
-    <p><a href="https://github.com/boostcampwm2023/web02-fancamp">깃허브 링크</a></p>
+    <p><a href="https://github.com/ttobe/web02-fancamp">깃허브 링크</a></p>
   </div>
 </div>
 
