@@ -9,7 +9,7 @@
 - blog: [ttobe](https://velog.io/@ttobe/posts)
 - [네이버 부스트캠프 웹모바일](https://boostcamp.connect.or.kr/program_wm.html) 8기 챌린지 수료 (23.07.10 ~ 23.08.08)
 - [네이버 부스트캠프 웹모바일](https://boostcamp.connect.or.kr/program_wm.html) 8기 멤버십 수료 (23.08.28 ~ 23.12.15)
-- [네이버 인공지능 프로젝트](https://github.com/kopilot2024/kopilot) (24.07.01 ~ 24.08.23)
+- [네이버 인공지능 프로젝트](https://github.com/ttobe/kopilot) (24.07.01 ~ 24.08.23)
 
 <br>
 <br>
