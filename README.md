@@ -24,7 +24,7 @@
     <h3>kopilot</h3>
     <p>글쓰기 효율을 높이는 서비스</p>
     <p><a href="https://kopilot.kro.kr/">배포 링크</a></p>
-    <p><a href="https://github.com/kopilot2024/kopilot">깃허브 링크</a></p>
+    <p><a href="https://github.com/ttobe/kopilot">깃허브 링크</a></p>
   </div>
 </div>
 
