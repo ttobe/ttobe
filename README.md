@@ -4,8 +4,6 @@
 
 **Backend Developer**
 
-로그와 데이터로 문제를 정의하고 개선합니다 · *Why this choice?* 를 고민하는 개발
-
 <a href="https://velog.io/@ttobe/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
 <a href="https://ttobe.github.io/"><img src="https://img.shields.io/badge/Portfolio-2F54EB?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
 <a href="https://url.kr/xnne7k"><img src="https://img.shields.io/badge/Resume-000000?style=for-the-badge&logo=notion&logoColor=white" /></a>
