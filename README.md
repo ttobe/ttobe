@@ -1,12 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2f54eb,100:536976&height=200&section=header&text=ttobe&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Backend%20Developer&descSize=18&descAlignY=58&descColor=e6e9f0" />
+# ttobe
 
-<a href="https://velog.io/@ttobe/posts">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3200&pause=900&color=2F54EB&center=true&vCenter=true&width=620&lines=Backend+Developer;Define+%26+improve+with+logs+and+data;Always+ask%3A+why+this+choice%3F" alt="typing" />
-</a>
+**Backend Developer**
 
-<br/>
+로그와 데이터로 문제를 정의하고 개선합니다 · *Why this choice?* 를 고민하는 개발
 
 <a href="https://velog.io/@ttobe/posts"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" /></a>
 <a href="https://ttobe.github.io/"><img src="https://img.shields.io/badge/Portfolio-2F54EB?style=for-the-badge&logo=githubpages&logoColor=white" /></a>
@@ -17,47 +15,49 @@
 
 <br/>
 
-## 🛠 Tech Stack
+### `01` · Tech Stack
 
-<div align="center">
-
-**Backend & Language**
-
-<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,spring,java,ts,js" />
-
-**Database & Infra**
-
-<img src="https://skillicons.dev/icons?i=mysql,redis,nginx,aws,grafana" />
-
-**AI**
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-
-</div>
+<table>
+  <tr>
+    <td width="120" align="center"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,spring,java,ts,js" /></td>
+  </tr>
+  <tr>
+    <td width="120" align="center"><b>Infra · DB</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mysql,redis,nginx,aws,grafana" /></td>
+  </tr>
+  <tr>
+    <td width="120" align="center"><b>AI</b></td>
+    <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /></td>
+  </tr>
+</table>
 
 <br/>
 
-## 📦 Projects
+### `02` · Projects
 
-<div>
-  <img src="https://github.com/user-attachments/assets/36af89d3-1881-4b00-b679-9b4b558aec60" alt="kopilot_logo" width="22%" align="left" style="margin-right: 20px;" />
-  <h3>kopilot</h3>
-  <p>글쓰기 효율을 높이는 한국어 글쓰기 교정 서비스</p>
-  <p>
-    <a href="https://github.com/ttobe/kopilot"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  </p>
-</div>
+<table>
+  <tr>
+    <td width="150" align="center">
+      <img src="https://github.com/user-attachments/assets/36af89d3-1881-4b00-b679-9b4b558aec60" alt="kopilot" width="110" />
+    </td>
+    <td>
+      <b>kopilot</b><br/>
+      글쓰기 효율을 높이는 한국어 글쓰기 교정 서비스<br/><br/>
+      <a href="https://github.com/ttobe/kopilot"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
 
-<br clear="left"/>
-<br/>
-
-<div>
-  <img src="https://github.com/ttobe/ttobe/assets/101859033/3b0a827d-c0ab-4b4e-89ff-8a9d3d4ec296" alt="fancamp_logo" width="22%" align="left" style="margin-right: 20px;" />
-  <h3>fancamp</h3>
-  <p>인플루언서 커뮤니티 플랫폼</p>
-  <p>
-    <a href="https://github.com/ttobe/web02-fancamp"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  </p>
-</div>
-
-<br clear="left"/>
+<table>
+  <tr>
+    <td width="150" align="center">
+      <img src="https://github.com/ttobe/ttobe/assets/101859033/3b0a827d-c0ab-4b4e-89ff-8a9d3d4ec296" alt="fancamp" width="110" />
+    </td>
+    <td>
+      <b>fancamp</b><br/>
+      인플루언서 커뮤니티 플랫폼<br/><br/>
+      <a href="https://github.com/ttobe/web02-fancamp"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+    </td>
+  </tr>
+</table>
