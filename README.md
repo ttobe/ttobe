@@ -44,7 +44,6 @@
   <h3>kopilot</h3>
   <p>글쓰기 효율을 높이는 한국어 글쓰기 교정 서비스</p>
   <p>
-    <a href="https://kopilot.kro.kr/"><img src="https://img.shields.io/badge/Demo-2F54EB?style=flat-square&logo=googlechrome&logoColor=white" /></a>
     <a href="https://github.com/ttobe/kopilot"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
   </p>
 </div>
@@ -62,15 +61,3 @@
 </div>
 
 <br clear="left"/>
-<br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ttobe&show_icons=true&hide_border=true&title_color=2f54eb&icon_color=2f54eb&text_color=333333&bg_color=ffffff" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ttobe&layout=compact&hide_border=true&title_color=2f54eb&text_color=333333&bg_color=ffffff" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ttobe&hide_border=true&ring=2f54eb&fire=2f54eb&currStreakLabel=2f54eb&sideLabels=333333&currStreakNum=333333&sideNums=333333&dates=999999&dayLabels=666666&background=ffffff&stroke=eceef2" />
-
-</div>
