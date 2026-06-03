@@ -15,46 +15,47 @@
 
 ### `01` · Tech Stack
 
-<table>
-  <tr>
-    <td width="120" align="center"><b>Backend</b></td>
-    <td><img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,spring,java,ts,js" /></td>
-  </tr>
-  <tr>
-    <td width="120" align="center"><b>Infra · DB</b></td>
-    <td><img src="https://skillicons.dev/icons?i=mysql,redis,nginx,aws,grafana" /></td>
-  </tr>
-  <tr>
-    <td width="120" align="center"><b>AI</b></td>
-    <td><img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" /></td>
-  </tr>
-</table>
+<div align="center">
+
+`Backend`
+
+<img src="https://skillicons.dev/icons?i=nestjs,nodejs,express,spring,java,ts,js" />
+
+`Infra · DB`
+
+<img src="https://skillicons.dev/icons?i=mysql,redis,nginx,aws,grafana" />
+
+`AI`
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+
+</div>
 
 <br/>
 
 ### `02` · Projects
 
-<table>
+<table width="640">
   <tr>
-    <td width="150" align="center">
-      <img src="https://github.com/user-attachments/assets/36af89d3-1881-4b00-b679-9b4b558aec60" alt="kopilot" width="110" />
+    <td width="160" align="center">
+      <img src="https://github.com/user-attachments/assets/36af89d3-1881-4b00-b679-9b4b558aec60" alt="kopilot" width="96" />
     </td>
-    <td>
+    <td width="480">
       <b>kopilot</b><br/>
-      글쓰기 효율을 높이는 한국어 글쓰기 교정 서비스<br/><br/>
+      <sub>글쓰기 효율을 높이는 한국어 글쓰기 교정 서비스</sub><br/><br/>
       <a href="https://github.com/ttobe/kopilot"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
 </table>
 
-<table>
+<table width="640">
   <tr>
-    <td width="150" align="center">
-      <img src="https://github.com/ttobe/ttobe/assets/101859033/3b0a827d-c0ab-4b4e-89ff-8a9d3d4ec296" alt="fancamp" width="110" />
+    <td width="160" align="center">
+      <img src="https://github.com/ttobe/ttobe/assets/101859033/3b0a827d-c0ab-4b4e-89ff-8a9d3d4ec296" alt="fancamp" width="120" />
     </td>
-    <td>
+    <td width="480">
       <b>fancamp</b><br/>
-      인플루언서 커뮤니티 플랫폼<br/><br/>
+      <sub>인플루언서 커뮤니티 플랫폼</sub><br/><br/>
       <a href="https://github.com/ttobe/web02-fancamp"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
     </td>
   </tr>
